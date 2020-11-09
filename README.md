@@ -1,5 +1,5 @@
 # MrMine
-# This is a python implementation of MrMine: Multi-Resolution Multi-Network Embedding.
+This is a python implementation of MrMine: Multi-Resolution Multi-Network Embedding.
 
 # Please cite the following paper:
 
